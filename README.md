@@ -1,4 +1,7 @@
 # Deforestation-Analysis-2000-2020-
+
+<img width="552" height="373" alt="Image" src="https://github.com/user-attachments/assets/56c8bad4-7738-4b00-8f2b-d7673296a605" />
+
 . Project Overview
 This project investigates the change in global forest cover over a 20-year period. By analyzing data from 2000 and 2020, we aim to identify geographical patterns of deforestation and reforestation, evaluate the intensity of these changes, and categorize countries based on their conservation performance.
 
