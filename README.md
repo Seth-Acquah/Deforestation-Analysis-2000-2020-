@@ -68,6 +68,6 @@ Improve data monitoring and reporting systems
 Support reforestation initiatives
 Use data-driven approaches for environmental decision-making
 
-
+You can reach me via email (acquahseth1999@gmail.com
 
 
